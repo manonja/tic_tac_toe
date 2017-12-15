@@ -9,4 +9,4 @@ playerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advan
 winCondition	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function winCondition(turnArray, currentTurn){$/;"	function	line:50
 reset	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function reset(){$/;"	function	line:107
 startGame	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function startGame(){$/;"	function	line:118
-playerChoice	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function playerChoice(){$/;"	function	line:133
+playerChoice	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function playerChoice(){$/;"	function	line:134
