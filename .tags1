@@ -4,9 +4,9 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-computerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^    function computerTurn(){$/;"	function	line:18
-playerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^    function playerTurn(turn, id){$/;"	function	line:33
-winCondition	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function winCondition(turnArray, currentTurn){$/;"	function	line:50
-reset	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function reset(){$/;"	function	line:107
-startGame	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function startGame(){$/;"	function	line:118
-playerChoice	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function playerChoice(){$/;"	function	line:134
+computerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^    function computerTurn(){$/;"	function	line:17
+playerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^    function playerTurn(turn, id){$/;"	function	line:32
+winCondition	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function winCondition(turnArray, currentTurn){$/;"	function	line:49
+reset	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function reset(){$/;"	function	line:106
+startGame	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function startGame(){$/;"	function	line:116
+playerChoice	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function playerChoice(){$/;"	function	line:133
