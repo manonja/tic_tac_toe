@@ -6,7 +6,7 @@ $(document).ready(function(){
     // Determine computer's turn
     var computersTurn;
     // keeps track if there is a winner or not
-    var gameOn = false;
+    var winner = false;
     //keep track of the players and computer turn so no loop
     var count=0;
     // trigger modal onload
@@ -41,7 +41,7 @@ $(document).ready(function(){
             $("#"+id).text(turn);
             // verify the win condition
             winCondition(turns, turn);
-            if(gameOn === false){
+            if(winner === false){
                 computerTurn();
                 winCondition(turns, computerTurn);
             }
@@ -52,56 +52,56 @@ $(document).ready(function(){
 function winCondition(turnArray, currentTurn){
     if (turnArray[0] === currentTurn && turnArray[1] === currentTurn &&
     turnArray[2] === currentTurn) {
-        gameOn = true;
+        winner = true;
         alert("Player " + currentTurn + " wins!");
         reset();
     } else if (turnArray[3] === currentTurn && turnArray[4] === currentTurn &&
     turnArray[5] === currentTurn) {
-        gameOn = true;
+        winner = true;
         alert("Player " + currentTurn + " wins!");
         reset();
     } else if (turnArray[6] === currentTurn && turnArray[7] === currentTurn &&
     turnArray[8] === currentTurn) {
-        gameOn = true;
+        winner = true;
         alert("Player " + currentTurn + " wins!");
         reset();
     } else if (turnArray[0] === currentTurn && turnArray[3] === currentTurn &&
     turnArray[6] === currentTurn) {
-        gameOn = true;
+        winner = true;
         alert("Player " + currentTurn + " wins!");
         reset();
     } else if (turnArray[1] === currentTurn && turnArray[4] === currentTurn &&
     turnArray[7] === currentTurn) {
-        gameOn = true;
+        winner = true;
         alert("Player " + currentTurn + " wins!");
         reset();
     } else if (turnArray[2] === currentTurn && turnArray[5] === currentTurn &&
     turnArray[8] === currentTurn) {
-        gameOn = true;
+        winner = true;
         alert("Player " + currentTurn + " wins!");
         reset();
     } else if (turnArray[0] === currentTurn && turnArray[4] === currentTurn &&
     turnArray[8] === currentTurn) {
-        gameOn = true;
+        winner = true;
         reset();
         alert("Player " + currentTurn + " wins!");
         reset();
     } else if (turnArray[2] === currentTurn && turnArray[4] === currentTurn &&
     turnArray[6] === currentTurn) {
-        gameOn = true;
+        winner = true;
         reset();
         alert("Player " + currentTurn + " wins!");
         reset();
     } else {
         /* the Win condition is not met so the game goes on and queue
         the computer's turn */
-        gameOn = false;
+        winner = false;
     }
 
 }
 
-
-
+// Store values when the player click on squares
+// Calls playerTurn to check the turn with ids
 $(".play").click(function(){
     var store = $(this).attr("id");
     playerTurn(turn, store);
@@ -112,7 +112,7 @@ function reset(){
     turns = ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"];
     count = 0;
     $(".play").text("#");
-    gameOn = false;
+    winner = false;
     modalTrigger();
 }
 
