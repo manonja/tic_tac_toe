@@ -9,8 +9,6 @@ $(document).ready(function(){
     var gameOn = false;
     //keep track of the players and computer turn so no loop
     var count=0;
-    $(".animated").hide();
-    $(".animatedPlayer").hide();
     // trigger modal onload
     startGame();
     // Player choose between X and O
@@ -115,6 +113,8 @@ function reset(){
     count = 0;
     $(".play").text("#");
     gameOn = false;
+    $(".animated").hide();
+    $(".animatedPlayer").hide();
     startGame();
 }
 
