@@ -113,13 +113,14 @@ function reset(){
     count = 0;
     $(".play").text("#");
     gameOn = false;
-    $(".animated").hide();
-    $(".animatedPlayer").hide();
+
     startGame();
 }
 
 
 function startGame(){
+    $(".animated").hide();
+    $(".animatedPlayer").hide();
     // bounce effect onCLick
     $("#X,#O").click(function(){
       $("#greetings, .animated").show();
