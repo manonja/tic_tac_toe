@@ -113,9 +113,21 @@ function reset(){
     count = 0;
     $(".play").text("#");
     gameOn = false;
-    // startGame();
+    triggerModal();
+
 }
 
+function triggerModal(){
+    // bounce effect onCLick
+    $("#X,#O").click(function(){
+      $("#greetings, .animated").show();
+    });
+    // trigger Modal
+    $('#myModal').modal({
+        show: true,
+        backdrop: false
+    });
+}
 
 function startGame(){
     $(".animated").hide();
