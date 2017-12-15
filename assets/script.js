@@ -6,7 +6,7 @@ $(document).ready(function(){
     // Determine computer's turn
     var computersTurn;
     // keeps track if there is a winner or not
-    var gameOn = true;
+    var gameOn = false;
     //keep track of the players and computer turn so no loop
     var count=0;
     // trigger modal onload
@@ -112,8 +112,8 @@ function reset(){
     turns = ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"];
     count = 0;
     $(".play").text("#");
-    gameOn = true;
-    startGame();
+    gameOn = false;
+    // startGame();
 }
 
 
@@ -129,7 +129,6 @@ function startGame(){
         show: true,
         backdrop: false
     });
-    $(".play").text("#");
 
 }
 
