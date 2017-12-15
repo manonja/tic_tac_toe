@@ -9,6 +9,8 @@ $(document).ready(function(){
     var gameOn = false;
     //keep track of the players and computer turn so no loop
     var count=0;
+    $(".animated").hide();
+    $(".animatedPlayer").hide();
     // trigger modal onload
     startGame();
     // Player choose between X and O
@@ -116,9 +118,8 @@ function reset(){
     startGame();
 }
 
+
 function startGame(){
-    $(".animated").hide();
-    $(".animatedPlayer").hide();
     // bounce effect onCLick
     $("#X,#O").click(function(){
       $("#greetings, .animated").show();
