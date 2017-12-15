@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+computerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^    function computerTurn(){$/;"	function	line:20
+playerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^    function playerTurn(turn, id){$/;"	function	line:35
+winCondition	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function winCondition(turnArray, currentTurn){$/;"	function	line:52
+reset	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function reset(){$/;"	function	line:111
+modalTrigger	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function modalTrigger(){$/;"	function	line:119
+startGame	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function startGame(){$/;"	function	line:132
+playerChoice	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function playerChoice(){$/;"	function	line:147

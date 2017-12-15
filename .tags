@@ -5,3 +5,89 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 tic_tac_toe	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/README.md	/^# tic_tac_toe$/;"	function	line:1
+html,body	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^html,body{$/;"	function	line:1
+.modal-content	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^.modal-content{$/;"	function	line:8
+.modal-title	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^.modal-title{$/;"	function	line:12
+.modal-body	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^.modal-body{$/;"	function	line:17
+button#X	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^button#X{$/;"	function	line:23
+button#X:hover	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^button#X:hover{$/;"	function	line:30
+button#X:active	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^button#X:active{$/;"	function	line:34
+button#O:hover	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^button#O:hover{$/;"	function	line:41
+button#O	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^button#O{$/;"	function	line:45
+button#O:hover	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^button#O:hover{$/;"	function	line:52
+button#O:active	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^button#O:active{$/;"	function	line:56
+.animated	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^.animated {$/;"	function	line:64
+.animatedPlayer	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^.animatedPlayer {$/;"	function	line:71
+@-moz-keyframes bounce	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^@-moz-keyframes bounce {$/;"	function	line:78
+0%	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^        0%{ -moz-transform:scale(0); opacity:0;}$/;"	function	line:79
+50%	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^        50%{ -moz-transform:scale(1.3); opacity:0.4; }$/;"	function	line:80
+75%	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^        75%{ -moz-transform:scale(0.9); opacity:0.7;}$/;"	function	line:81
+100%	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^        100%{ -moz-transform:scale(1); opacity:1;}$/;"	function	line:82
+@-webkit-keyframes bounce	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^@-webkit-keyframes bounce {$/;"	function	line:85
+0%	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^        0%{ -webkit-transform:scale(0); opacity:0;}$/;"	function	line:86
+50%	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^        50%{ -webkit-transform:scale(1.3); opacity:0.4;}$/;"	function	line:87
+75%	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^        75%{ -webkit-transform:scale(0.9); opacity:0.7;}$/;"	function	line:88
+100%	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^        100%{ -webkit-transform:scale(1); opacity:1;}$/;"	function	line:89
+.container-fluid	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^.container-fluid {$/;"	function	line:92
+.board	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^.board{$/;"	function	line:104
+.play	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^.play{$/;"	function	line:118
+.play:hover	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^.play:hover{$/;"	function	line:134
+.play:active	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^.play:active{$/;"	function	line:137
+a.btn.play	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^a.btn.play{$/;"	function	line:142
+a.btn.play:active	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^a.btn.play:active{$/;"	function	line:151
+html	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^<html>$/;"	function	line:2
+head	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^    <head>$/;"	function	line:3
+meta	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <meta charset="utf-8">$/;"	function	line:4
+meta	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <title> TicTacToe <\/title>$/;"	function	line:7
+link	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <link rel="stylesheet" href="https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.3.7\/css\/bootstrap.min.css">$/;"	function	line:9
+script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.2.1\/jquery.min.js"><\/script>$/;"	function	line:12
+script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <script src="https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.3.7\/js\/bootstrap.min.js"><\/script>$/;"	function	line:15
+link	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <link href="https:\/\/fonts.googleapis.com\/css?family=Rubik+Mono+One" rel="stylesheet">$/;"	function	line:17
+script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <script type="text\/javascript" src="script.js"><\/script>$/;"	function	line:19
+link	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <link type="text\/css" rel="stylesheet" href="style.css">$/;"	function	line:20
+body	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^    <body>$/;"	function	line:22
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <div class="container">$/;"	function	line:25
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-hidden="true" data-toggle="modal">$/;"	function	line:28
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^    <div class="modal-dialog modal-lg">$/;"	function	line:29
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^      <div class="modal-content">$/;"	function	line:32
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <div class="modal-header">$/;"	function	line:33
+button	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;<\/span><\/button>$/;"	function	line:34
+h	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^          <h4 class="modal-title text-center" id="main-title">TicTacToe Game<\/h4>$/;"	function	line:35
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <div class="modal-body text-center ">$/;"	function	line:37
+p	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^          <p>What letter do you want to play? <\/p>$/;"	function	line:38
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <div class = "modal-footer ">$/;"	function	line:40
+button	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^            <button type="button" id="O" class="btn" data-dismiss="modal" onClick="setFig(this.id)" >O<\/button>-->$/;"	function	line:42
+button	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^            <button type="button" id="X" class="btn" data-dismiss="modal">X<\/button>$/;"	function	line:43
+button	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^            <button type="button" id="O" class="btn" data-dismiss="modal">O<\/button>$/;"	function	line:44
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^<div class="container-fluid">$/;"	function	line:54
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^    <div class="container title_content">$/;"	function	line:55
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <div id="greeting_title">$/;"	function	line:56
+h	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^            <h1 class="bounce animated">Get three in a row!<\/h1>$/;"	function	line:57
+h	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^            <h3 class="bounce animatedPlayer" id="playerX">You play X<\/h3>$/;"	function	line:58
+h	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^            <h3 class="bounce animatedPlayer" id="playerO">You play O<\/h3>$/;"	function	line:59
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^    <div class="board">$/;"	function	line:63
+a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a class="btn play" id="0">#<\/a>$/;"	function	line:65
+a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a class="btn play" id="1">#<\/a>$/;"	function	line:66
+a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a class="btn play" id="2">#<\/a>$/;"	function	line:67
+a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a class="btn play" id="3">#<\/a>$/;"	function	line:68
+a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a class="btn play" id="4">#<\/a>$/;"	function	line:69
+a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a class="btn play" id="5">#<\/a>$/;"	function	line:70
+a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a class="btn play" id="6">#<\/a>$/;"	function	line:71
+a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a class="btn play" id="7">#<\/a>$/;"	function	line:72
+a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a class="btn play" id="8">#<\/a>$/;"	function	line:73
+a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a id="reset"><h3>Reset<\/h3><\/a>$/;"	function	line:77
+script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <script type="text\/javascript" src="script.js"><\/script>$/;"	function	line:83
+computerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^\/\/     function computerTurn(){$/;"	function	line:20
+playerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^\/\/     function playerTurn(turn, id){$/;"	function	line:35
+winCondition	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^\/\/ function winCondition(turnArray, currentTurn){$/;"	function	line:52
+reset	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^\/\/ function reset(){$/;"	function	line:109
+startGame	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^\/\/ function startGame(){$/;"	function	line:119
+playerChoice	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^\/\/ function playerChoice(){$/;"	function	line:134
+computerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^    function computerTurn(){$/;"	function	line:20
+playerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^    function playerTurn(turn, id){$/;"	function	line:35
+winCondition	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function winCondition(turnArray, currentTurn){$/;"	function	line:52
+reset	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function reset(){$/;"	function	line:111
+modalTrigger	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function modalTrigger(){$/;"	function	line:119
+startGame	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function startGame(){$/;"	function	line:132
+playerChoice	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function playerChoice(){$/;"	function	line:147

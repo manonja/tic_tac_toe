@@ -2,9 +2,84 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Tic_Tac_Toe</title>
+        <!-- responsive  -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> TicTacToe </title>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+        <!-- jQuery library -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+        <!-- Latest compiled JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <!-- Google font -->
+        <link href="https://fonts.googleapis.com/css?family=Rubik+Mono+One" rel="stylesheet">
+
+        <script type="text/javascript" src="script.js"></script>
+        <link type="text/css" rel="stylesheet" href="style.css">
     </head>
     <body>
 
+
+        <div class="container">
+
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-hidden="true" data-toggle="modal">
+    <div class="modal-dialog modal-lg">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title text-center" id="main-title">TicTacToe Game</h4>
+        </div>
+        <div class="modal-body text-center ">
+          <p>What letter do you want to play? </p>
+        </div>
+        <div class = "modal-footer ">
+            <!--  <button type="button" id="X" class="btn" data-dismiss="modal" onClick="setFig(this.id)">X</button>
+            <button type="button" id="O" class="btn" data-dismiss="modal" onClick="setFig(this.id)" >O</button>-->
+            <button type="button" id="X" class="btn" data-dismiss="modal">X</button>
+            <button type="button" id="O" class="btn" data-dismiss="modal">O</button>
+        </div>
+
+    </div>
+  </div>
+
+</div>
+</div>
+
+<!-- Set the board -->
+<div class="container-fluid">
+    <div class="container title_content">
+        <div id="greeting_title">
+            <h1 class="bounce animated">Get three in a row!</h1>
+            <h3 class="bounce animatedPlayer" id="playerX">You play X</h3>
+            <h3 class="bounce animatedPlayer" id="playerO">You play O</h3>
+
+        </div>
+    </div>
+    <div class="board">
+
+        <a class="btn play" id="0">#</a>
+        <a class="btn play" id="1">#</a>
+        <a class="btn play" id="2">#</a>
+        <a class="btn play" id="3">#</a>
+        <a class="btn play" id="4">#</a>
+        <a class="btn play" id="5">#</a>
+        <a class="btn play" id="6">#</a>
+        <a class="btn play" id="7">#</a>
+        <a class="btn play" id="8">#</a>
+    </div>
+
+    <!-- <div class="container">
+        <a id="reset"><h3>Reset</h3></a>
+    </div> -->
+</div>
+
+
+
+        <script type="text/javascript" src="script.js"></script>
     </body>
 </html>
