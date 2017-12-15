@@ -113,7 +113,19 @@ function reset(){
     count = 0;
     $(".play").text("#");
     gameOn = false;
-    startGame();
+    modalTrigger();
+}
+
+function modalTrigger(){
+    // bounce effect onCLick
+    $("#X,#O").click(function(){
+      $("#greetings, .animated").show();
+    });
+    // trigger Modal
+    $('#myModal').modal({
+        show: true,
+        backdrop: false
+    });
 }
 
 
@@ -138,6 +150,7 @@ function playerChoice(){
         turn = "X";
         computersTurn="O";
         $("#playerX").show();
+        $("#playerO").hide();
         reset();
     });
 
@@ -146,6 +159,7 @@ function playerChoice(){
         turn = "O";
         computersTurn="X";
         $("#playerO").show();
+        $("#playerX").hide();
         reset();
     });
 
