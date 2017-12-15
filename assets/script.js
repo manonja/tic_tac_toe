@@ -5,9 +5,9 @@ $(document).ready(function(){
     var turns=["#", "#", "#", "#", "#", "#", "#", "#", "#"];
     // Determine computer's turn
     var computersTurn;
-    // keeps track if there is a winner or not
+    // Check if the winning confition is true;
     var winner = false;
-    //keep track of the players and computer turn so no loop
+    //keep track of the players and computer
     var count=0;
     // trigger modal onload
     startGame();
@@ -43,7 +43,7 @@ $(document).ready(function(){
             winCondition(turns, myTurn);
             if(winner === false){
                 computerTurn();
-                winCondition(turns, computerTurn);
+                winCondition(turns, computersTurn);
             }
         }
     }
