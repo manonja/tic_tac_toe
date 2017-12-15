@@ -113,6 +113,7 @@ function reset(){
     count = 0;
     $(".play").text("#");
     gameOn = false;
+    startGame();
 }
 
 
