@@ -1,6 +1,6 @@
 $(document).ready(function(){
     // Determine player's turn
-    var turn;
+    var myTurn;
     // Stores the ids that we will check later for a winner
     var turns=["#", "#", "#", "#", "#", "#", "#", "#", "#"];
     // Determine computer's turn
@@ -32,15 +32,15 @@ $(document).ready(function(){
         }
     }
 
-    function playerTurn(turn, id){
+    function playerTurn(myTurn, id){
         var squareClicked = $("#" + id).text();
         if(squareClicked === "#"){
             // keep tracks
             count++;
-            turns[id]= turn;
-            $("#"+id).text(turn);
+            turns[id]= myTurn;
+            $("#"+id).text(myTurn);
             // verify the win condition
-            winCondition(turns, turn);
+            winCondition(turns, myTurn);
             if(winner === false){
                 computerTurn();
                 winCondition(turns, computerTurn);
@@ -104,7 +104,7 @@ function winCondition(turnArray, currentTurn){
 // Calls playerTurn to check the turn with ids
 $(".play").click(function(){
     var store = $(this).attr("id");
-    playerTurn(turn, store);
+    playerTurn(myTurn, store);
 });
 
 
@@ -147,7 +147,7 @@ function startGame(){
 function playerChoice(){
     // Change player's turn to X and computer to O
     $("#X").click(function(){
-        turn = "X";
+        myTurn = "X";
         computersTurn="O";
         $("#playerX").show();
         $("#playerO").hide();
@@ -156,7 +156,7 @@ function playerChoice(){
 
     // change player's turn to O and computer to X
     $("#O").click(function(){
-        turn = "O";
+        myTurn = "O";
         computersTurn="X";
         $("#playerO").show();
         $("#playerX").hide();
