@@ -8,6 +8,5 @@ computerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Adv
 playerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^    function playerTurn(turn, id){$/;"	function	line:35
 winCondition	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function winCondition(turnArray, currentTurn){$/;"	function	line:52
 reset	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function reset(){$/;"	function	line:111
-triggerModal	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function triggerModal(){$/;"	function	line:118
-startGame	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function startGame(){$/;"	function	line:130
-playerChoice	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function playerChoice(){$/;"	function	line:145
+startGame	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function startGame(){$/;"	function	line:119
+playerChoice	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/script.js	/^function playerChoice(){$/;"	function	line:134
