@@ -35,12 +35,6 @@ button#O:active	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/
 .play:active	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^.play:active{$/;"	function	line:137
 a.btn.play	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^a.btn.play{$/;"	function	line:142
 a.btn.play:active	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/style.css	/^a.btn.play:active{$/;"	function	line:151
-computerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^    function computerTurn(){$/;"	function	line:20
-playerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^    function playerTurn(turn, id){$/;"	function	line:35
-winCondition	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function winCondition(turnArray, currentTurn){$/;"	function	line:52
-reset	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function reset(){$/;"	function	line:111
-startGame	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function startGame(){$/;"	function	line:120
-playerChoice	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function playerChoice(){$/;"	function	line:136
 html	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^<html>$/;"	function	line:2
 head	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^    <head>$/;"	function	line:3
 meta	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <meta charset="utf-8">$/;"	function	line:4
@@ -50,7 +44,7 @@ link	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Pr
 script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.2.1\/jquery.min.js"><\/script>$/;"	function	line:12
 script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <script src="https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.3.7\/js\/bootstrap.min.js"><\/script>$/;"	function	line:15
 link	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <link href="https:\/\/fonts.googleapis.com\/css?family=Rubik+Mono+One" rel="stylesheet">$/;"	function	line:17
-script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <script type="text\/javascript" src="lib\/script.js"><\/script>$/;"	function	line:19
+script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <script type="text\/javascript" src="script.js"><\/script>$/;"	function	line:19
 link	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <link type="text\/css" rel="stylesheet" href="style.css">$/;"	function	line:20
 body	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^    <body>$/;"	function	line:22
 div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <div class="container">$/;"	function	line:25
@@ -83,4 +77,10 @@ a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Proje
 a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a class="btn play" id="7">#<\/a>$/;"	function	line:72
 a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a class="btn play" id="8">#<\/a>$/;"	function	line:73
 a	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <a id="reset"><h3>Reset<\/h3><\/a>$/;"	function	line:77
-script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <script type="text\/javascript" src="lib\/script.js"><\/script>$/;"	function	line:83
+script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/assets/index.html	/^        <script type="text\/javascript" src="script.js"><\/script>$/;"	function	line:83
+computerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^    function computerTurn(){$/;"	function	line:20
+playerTurn	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^    function playerTurn(turn, id){$/;"	function	line:35
+winCondition	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function winCondition(turnArray, currentTurn){$/;"	function	line:52
+reset	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function reset(){$/;"	function	line:111
+startGame	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function startGame(){$/;"	function	line:120
+playerChoice	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/tic_tac_toe/lib/script.js	/^function playerChoice(){$/;"	function	line:136
